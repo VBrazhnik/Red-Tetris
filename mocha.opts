@@ -1,0 +1,5 @@
+--exit
+--timeout 6000
+--require @babel/register
+--file ./test/client/setup-tests.js
+--file ./test/server/setup-tests.js

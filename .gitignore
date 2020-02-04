@@ -1,0 +1,18 @@
+# Editors & IDEs
+
+.idea
+.vscode
+
+# Project
+
+node_modules
+dist
+build
+
+# Logs
+
+logs
+
+# Tests
+
+.nyc_output
